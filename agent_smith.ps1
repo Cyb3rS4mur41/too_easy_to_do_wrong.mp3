@@ -5,6 +5,6 @@ while ($true) {
     # Open Microsoft Edge
     Start-Process $edgePath
 
-    # Wait for 10 seconds before repeating
+    # Wait for 1 seconds before repeating
     Start-Sleep -Seconds 1
 }
