@@ -6,5 +6,5 @@ while ($true) {
     Start-Process $edgePath
 
     # Wait for 10 seconds before repeating
-    Start-Sleep -Seconds 3
+    Start-Sleep -Seconds 1
 }
